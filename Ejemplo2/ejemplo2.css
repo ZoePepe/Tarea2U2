@@ -1,0 +1,67 @@
+#Contenedor{
+    border-style: solid;
+    border-width: 5px; 
+    border-radius: 5px;
+    border-color: black;
+    margin: 0 auto;
+    width: 600px;
+    height: 600px;
+    display: inline-flex; 
+	display: flex;
+    flex-direction: row-reverse;
+   justify-content: center;
+   align-items: center;
+   
+}
+
+#Rojo{
+    margin: 0 auto;
+    height: 200px;
+    width: 200px;
+    border: 1px; 
+    margin-bottom: 20px;
+    background-color: red;
+    position:relative;
+   text-align: center;
+   color: white;
+   font-size: 2rem;
+   display: flex;
+   align-items: center;
+   justify-content: center;
+   
+
+ 
+  
+}
+
+#Azul{
+    margin: 0 auto;
+    height: 200px;
+    width: 200px;
+    border: 1px; 
+    margin-bottom: 20px;
+    background-color: blue;
+    position:relative;
+   text-align: center;
+   color: white;
+   font-size: 2rem;
+   display: flex;
+   align-items: center;
+   justify-content: center;
+}
+
+#Verde{
+    margin: 0 auto;
+    height: 200px;
+    width: 200px;
+    border: 1px; 
+    margin-bottom: 20px;
+    background-color: green;
+    position:relative;
+   text-align: center;
+   color: white;
+   font-size: 2rem;
+   display: flex;
+   align-items: center;
+   justify-content: center;
+}
